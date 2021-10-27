@@ -5,9 +5,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/architec" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=architec&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-  </a>
+  ![](https://komarev.com/ghpvc/?username=architec)
   
                              
                     
