@@ -1,8 +1,10 @@
 # <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm architec <br><img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
+<p align="center"> My Proudest Project: https://github.com/arch-org/mistake </p>
+
 <p align="center">
     <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
 </p>
-<p align="center"> My Proudest Project: https://github.com/arch-org/mistake </p>
+
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=architec)
