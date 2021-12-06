@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Science and Smart Contracts
 - ✔️ I already have good experience with C++, C, Java, Javascript, Solidity, Python, Go
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Send me a message!
+- 📫 Please email me at <zongtai.david.liu@gmail.com>
 
 <p align="center"> My Proudest Project: https://github.com/arch-org/mistake </p>
 
