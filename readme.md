@@ -2,7 +2,8 @@
 
 - 📫 Please email me at <zongtai.david.liu@gmail.com>
 
-<p align="center"> My Proudest Project: https://github.com/arch-org/mistake </p>
+<p align="center"> My Proudest Project: https://github.com/architec/mistake <a href="https://chrome.google.com/webstore/detail/leetcode-mistake-tracker/gdkafhifmmkcifpdcfbppiieckgfpjbb"><img src="https://img.shields.io/chrome-web-store/d/gdkafhifmmkcifpdcfbppiieckgfpjbb.svg" alt="users"></a></p>
+
 
 <p align="center">
     <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
