@@ -2,7 +2,7 @@
 
 - 📫 Please email me at <zongtai.david.liu@gmail.com>
 
-<p align="center"> My Proudest Project: https://github.com/architec/mistake <a href="https://chrome.google.com/webstore/detail/leetcode-mistake-tracker/gdkafhifmmkcifpdcfbppiieckgfpjbb"><img src="https://img.shields.io/chrome-web-store/d/gdkafhifmmkcifpdcfbppiieckgfpjbb.svg" alt="users"></a></p>
+<p align="center"> Project: https://github.com/architec/mistake <a href="https://chrome.google.com/webstore/detail/leetcode-mistake-tracker/gdkafhifmmkcifpdcfbppiieckgfpjbb"><img src="https://img.shields.io/chrome-web-store/d/gdkafhifmmkcifpdcfbppiieckgfpjbb.svg" alt="users"></a></p>
 
 
 <p align="center">
