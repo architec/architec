@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=architec&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?hide_title=true&username=architec&show_icons=true&theme=synthwave)
 <!-- # <h1 align="center">Hi, I'm architec <br><img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
 
 
